@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<HTML lang="en-US">
+<TITLE> Heading Demo Page </TITLE>
+<BODY>
+	<h1 style="background-color:Violet;">My University Information</h1>
+	<p>
+		Name: Kassidy Sonson<br>
+		Major: Computer Science<br>
+		Minor: Mathematics<br>
+		Club(s)/Extracurricular(s): ENGIN, GirlsWhoCode
+	</p>
+	Current courses:
+			<ol>
+				<li>Intensive Programming</li>
+				<li>Calculus II</li>
+				<li>Intro to Mobile Application Development</li>
+				<li>Data Structures</li>
+				<li>Intro to Machine Learning Development and Artificial Intelligence </li>
+				<li>Intro to Ethics</li>
+
+			</ol>
+
+</BODY>
+</HTML>
